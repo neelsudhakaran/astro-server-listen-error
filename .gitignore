@@ -1,0 +1,17 @@
+# Build Files
+dist/
+
+# Cache Files
+.astro/
+
+# Dependency Files
+node_modules/
+
+# OS Files
+.DS_Store
+
+# Editor Files
+.vscode/
+
+# Secret Files
+.env*
