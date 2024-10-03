@@ -12,6 +12,3 @@ node_modules/
 
 # Editor Files
 .vscode/
-
-# Secret Files
-.env*
